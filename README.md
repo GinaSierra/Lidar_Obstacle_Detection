@@ -1,6 +1,6 @@
 # Lidar Obstacle Detection
 
-This project is focused on the detection of other cars on the road using raw lidar data a self-driving car.
+This project is focused on the detection of other cars on the road using raw lidar data from a self-driving car. Filtering, segmentation, and clustering of point cloud data were performed to detect obstacles. 
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
