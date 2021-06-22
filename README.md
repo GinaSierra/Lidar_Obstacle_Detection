@@ -1,5 +1,7 @@
 # Lidar Obstacle Detection
 
+This project is focused on the detection of other cars on the road using raw lidar data a self-driving car.
+
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 ## Workspace
